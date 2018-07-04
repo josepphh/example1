@@ -9,7 +9,7 @@ namespace example1
 	{
 		public App ()
 		{
-			InitializeComponent();
+			InitializeComponent();  
 
 			MainPage = new MainPage();
 		}
